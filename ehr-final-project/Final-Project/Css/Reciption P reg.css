@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+body {
+    font-family: sans-serif;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.form-control {
+    border: 1px solid lightblue; 
+    color: #19A2DD; 
+    padding: 5px; 
+    }
+
+
+.form-control:focus {  
+outline: 1px solid #B3CDE0;
+}

@@ -1,0 +1,34 @@
+Database Info
+--------------
+
+database name - ehr_db
+username - ehr_user
+password - 1234
+
+User Logins
+---------------
+Doctor Login
+username - doctoruser1
+password - 123
+
+Patient Login
+username - patientuser1 
+password - 123
+
+Admin Login
+username - adminuser1
+password - 123
+
+Receptionist Login
+username - recepuser1 
+password - 123
+
+Pharamacist Login
+username - pharmacyuser1
+password - 123
+
+Lab Technician Login
+username - labuser1 
+password - 123
+
+

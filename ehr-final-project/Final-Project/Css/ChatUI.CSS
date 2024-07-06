@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+body {
+  
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  width: 5px;
+  background: #f5f5f5;
+}
+
+::-webkit-scrollbar-thumb {
+  width: 1em;
+  background-color: #ddd;
+  outline: 1px solid slategrey;
+  border-radius: 1rem;
+}
+.dot {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(32, 203, 32);
+    border-radius: 50%;
+    display:flexbox;
+    margin-left: 97%; 
+  }
+
+  .dot-hidden {
+    width: 10px;
+    height: 10px;
+    background-color: rgba(32, 203, 32, 0);
+    border-radius: 50%;
+    display:flexbox;
+    margin-left: 97%; 
+  }
+.text-small {
+  font-size: 0.9rem;
+}
+
+.messages-box,
+.chat-box {
+  height: 510px;
+  overflow-y: scroll;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+input::placeholder {
+  font-size: 0.9rem;
+  color: #999;
+}
